@@ -1,5 +1,7 @@
 # Retail Sales Analysis SQL Project
 
+![image](https://github.com/user-attachments/assets/a390c506-4c69-45b0-9e36-9e67eb2f1766)
+
 ## Project Overview
 
 **Project Title**: Retail Sales Analysis  
@@ -26,8 +28,7 @@ insights into sales performance, customer behavior, and product trends.
 
 
  1.  Write a SQL query to retrieve all columns for sales made on '2022-11-05 :
- 2.  Write a SQL query to retrieve all transactions where the category is 'Clothing' and the quantity sold is more
-     than 4 in the month of Nov-2022 :
+ 2.  Write a SQL query to retrieve all transactions where the category is 'Clothing' and the quantity sold is more than 4 in the month of Nov-2022 :
  3.  Write a SQL query to calculate the total sales (total_sale) for each category :
  4.  Write a SQL query to find the average age of customers who purchased items from the 'Beauty' category :
  5.  Write a SQL query to find all transactions where the total_sale is greater than 1000 :
