@@ -29,16 +29,16 @@ insights into sales performance, customer behavior, and product trends.
 ### SQL queries were developed to answer specific business questions:
 
 
-    - Retrieve all columns for sales made on '2022-11-05 :
-    - Retrieve all transactions where the category is 'Clothing' and the quantity sold is more than 4 in the month of Nov-2022 :
-    - Calculate the total sales (total_sale) for each category :
-    - Find the average age of customers who purchased items from the 'Beauty' category :
-    - Find all transactions where the total_sale is greater than 1000 :
-    - Find the total number of transactions (transaction_id) made by each gender in each category :
-    - Calculate the average sale for each month. Find out best selling month in each year :
-    - Find the top 5 customers based on the highest total sales :
-    - Find the number of unique customers who purchased items from each category :
-    - Create each shift and number of orders (Example Morning <12, Afternoon Between 12 & 17, Evening >17) :
+     1. Retrieve all columns for sales made on '2022-11-05 :
+     2. Retrieve all transactions where the category is 'Clothing' and the quantity sold is more than 4 in the month of Nov-2022 :
+     3. Calculate the total sales (total_sale) for each category :
+     4. Find the average age of customers who purchased items from the 'Beauty' category :
+     5. Find all transactions where the total_sale is greater than 1000 :
+     6. Find the total number of transactions (transaction_id) made by each gender in each category :
+     7. Calculate the average sale for each month. Find out best selling month in each year :
+     8. Find the top 5 customers based on the highest total sales :
+     9. Find the number of unique customers who purchased items from each category :
+    10. Create each shift and number of orders (Example Morning <12, Afternoon Between 12 & 17, Evening >17) :
 
 
 ## Findings
