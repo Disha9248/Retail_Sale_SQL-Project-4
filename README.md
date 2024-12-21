@@ -22,7 +22,7 @@ insights into sales performance, customer behavior, and product trends.
 
 ###  SQL queries were developed to answer specific business questions:
 
-```
+
 1. **Write a SQL query to retrieve all columns for sales made on '2022-11-05**:
 2. **Write a SQL query to retrieve all transactions where the category is 'Clothing' and the quantity sold is more
      than 4 in the month of Nov-2022**:
@@ -34,7 +34,7 @@ insights into sales performance, customer behavior, and product trends.
 8. **Write a SQL query to find the top 5 customers based on the highest total sales **:
 9. **Write a SQL query to find the number of unique customers who purchased items from each category.**:
 10. **Write a SQL query to create each shift and number of orders (Example Morning <12, Afternoon Between 12 & 17, Evening >17)**:
-```
+
 
 ## Findings
 
