@@ -3,8 +3,7 @@
 ![image](https://github.com/user-attachments/assets/a390c506-4c69-45b0-9e36-9e67eb2f1766)
 
 ## Project Overview
-
-**Project Title**: Retail Sales Analysis  
+ 
 This project involves business queries to analyze retail sales data. The dataset contains information about 
 sales transactions, customer details, product categories, and other relevant metrics. The queries aim to provide 
 insights into sales performance, customer behavior, and product trends.
